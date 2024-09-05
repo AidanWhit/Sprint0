@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/a12wh/OneDrive/Desktop/Sprint0Copy/Sprint0Copy/Sprint0Copy/Content/Credits.spritefont</SourceFile>
+  <SourceTime>2024-08-26T22:02:24-04:00</SourceTime>
+  <DestFile>C:/Users/a12wh/OneDrive/Desktop/Sprint0Copy/Sprint0Copy/Sprint0Copy/Content/bin/DesktopGL/Content/Credits.xnb</DestFile>
+  <DestTime>2024-08-30T08:50:46.9512538-04:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
